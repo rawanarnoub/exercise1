@@ -1,1 +1,2 @@
-print("Hello World!")
+def sub(x,y):
+    return x-y
