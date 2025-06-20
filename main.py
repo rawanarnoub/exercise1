@@ -1,2 +1,2 @@
-def sub(x,y):
+def subbtract(x,y):
     return x-y
